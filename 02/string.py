@@ -5,5 +5,4 @@ print(str[:5])
 print(str[1:])
 print(str[-5:-1])
 print(str[::-1])
-print(str[::-1])
 
